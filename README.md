@@ -1,6 +1,6 @@
-## Professional Portfolio challenge!
+# Professional Portfolio challenge!  
 
-# Description
+## Description
 GIVEN I need to sample a potential employee's previous work.  
 WHEN I load their portfolio.  
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them.  
@@ -15,5 +15,8 @@ THEN I am taken to that deployed application.
 WHEN I resize the page or view the site on various screens and devices.  
 THEN I am presented with a responsive layout that adapts to my viewport.  
 
-# Application Link
+## Screenshot  
+![screenshot](https://user-images.githubusercontent.com/119766277/218347455-91fb0b1b-6211-433a-84b9-dce47cfbb0cb.png). 
+
+## Application Link
 https://trayprey.github.io/pro_portfolio/.  
