@@ -19,4 +19,4 @@ THEN I am presented with a responsive layout that adapts to my viewport.
 ![screenshot](https://user-images.githubusercontent.com/119766277/218347455-91fb0b1b-6211-433a-84b9-dce47cfbb0cb.png). 
 
 ## Application Link
-https://trayprey.github.io/pro_portfolio/.  
+https://prestontravis.github.io/pro_portfolio/  
